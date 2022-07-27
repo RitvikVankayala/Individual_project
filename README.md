@@ -32,3 +32,15 @@
    1. USB PORT   - CONNECTED TO LAPTOP FOR UPLOADING THE CODE USING ARDUINO IDE
    2. POWER JACK - FOR THE POWER SUPPLY
     
+    
+## WORKING 
+  
+  After all the connections are made and the code is uploaded now the bot is ready to work. If an object is placed at a distance from the ultrasonic sensor then that distance can be seen from the screen of TM 1637 display that to in cm. The ultrasonic sensors sends the ultrasonic waves which have very high frequency. When they collide with the object they reflect back towards the ultrasonic sensor. It stores the time taken by the wave to return back and hence find the distance between object and sensor. The distance that is found here is passed into an inbuilt function of TM 1637 that can display the distance on its display.In this project I have taken the delay time as 2 seconds for displaying.
+    
+    
+    
+    
+    
+    
+    
+    
